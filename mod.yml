@@ -1,0 +1,36 @@
+title: Napoleon Dynamite
+originalAuthor: Shananas
+description:
+assets:
+- name: obj/M_AL020_FIRE.mdlx
+  method: copy
+  source:
+   - name: obj/M_AL020_FIRE.mdlx
+- name: obj/M_AL020_FIRE2.mdlx
+  method: copy
+  source:
+   - name: obj/M_AL020_FIRE2.mdlx
+- name: obj/M_AL020_ICEE.mdlx
+  method: copy
+  source:
+   - name: obj/M_AL020_ICEE.mdlx
+- name: obj/M_AL020_ICEE2.mdlx
+  method: copy
+  source:
+   - name: obj/M_AL020_ICEE2.mdlx
+- name: obj/N_BB060_BTL.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB060_BTL.mdlx
+- name: obj/N_BB060_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB060_RTN.mdlx
+- name: obj/N_BB070_BTL.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB070_BTL.mdlx
+- name: obj/N_BB070_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB070_RTN.mdlx
