@@ -1,6 +1,6 @@
 title: Napoleon Dynamite
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/M_AL020_FIRE.mdlx
   method: copy
