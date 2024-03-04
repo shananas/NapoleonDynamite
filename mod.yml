@@ -50,6 +50,22 @@ assets:
   method: copy
   source:
    - name: obj/N_BB040_TSURU.mdlx
+- name: obj/N_BB050_BTL.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB050_BTL.mdlx
+- name: obj/N_BB050_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB050_RTN.mdlx
+- name: obj/N_BB050_SAD_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB050_SAD_RTN.mdlx
+- name: obj/N_BB050_TSURU.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB050_TSURU.mdlx
 - name: obj/N_BB080_BTL.mdlx
   method: copy
   source:
