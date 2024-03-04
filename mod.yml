@@ -34,3 +34,39 @@ assets:
   method: copy
   source:
    - name: obj/N_BB070_RTN.mdlx
+- name: obj/M_EX590.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX590.mdlx
+- name: obj/M_EX590_NM.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX590_NM.mdlx
+- name: obj/N_BB040_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB040_RTN.mdlx
+- name: obj/N_BB040_TSURU.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB040_TSURU.mdlx
+- name: obj/N_BB080_BTL.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB080_BTL.mdlx
+- name: obj/N_BB080_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB080_RTN.mdlx
+- name: obj/N_BB080_TSURU.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB080_TSURU.mdlx
+- name: obj/N_BB080_TSURU1.mdlx
+  method: copy
+  source:
+   - name: obj/N_BB080_TSURU1.mdlx
+- name: obj/N_LM050_RTN.mdlx
+  method: copy
+  source:
+   - name: obj/N_LM050_RTN.mdlx
